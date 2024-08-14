@@ -1,7 +1,7 @@
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/corelabbr/corelab-challenge-web-app-php.git teste-api
+git clone https://github.com/gabrielmattia/teste-api.git teste-api
 ```
 ```sh
 cd teste-api
